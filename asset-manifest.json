@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/UCI-Lavatory-Locator/static/css/main.954acfa4.chunk.css",
+    "main.js": "/UCI-Lavatory-Locator/static/js/main.f7c29c08.chunk.js",
+    "main.js.map": "/UCI-Lavatory-Locator/static/js/main.f7c29c08.chunk.js.map",
+    "runtime~main.js": "/UCI-Lavatory-Locator/static/js/runtime~main.56e7c70e.js",
+    "runtime~main.js.map": "/UCI-Lavatory-Locator/static/js/runtime~main.56e7c70e.js.map",
+    "static/js/2.895b1b92.chunk.js": "/UCI-Lavatory-Locator/static/js/2.895b1b92.chunk.js",
+    "static/js/2.895b1b92.chunk.js.map": "/UCI-Lavatory-Locator/static/js/2.895b1b92.chunk.js.map",
+    "static/js/3.2d98378e.chunk.js": "/UCI-Lavatory-Locator/static/js/3.2d98378e.chunk.js",
+    "static/js/3.2d98378e.chunk.js.map": "/UCI-Lavatory-Locator/static/js/3.2d98378e.chunk.js.map",
+    "index.html": "/UCI-Lavatory-Locator/index.html",
+    "precache-manifest.79e30c37c8dc13083f7f214c86935a6c.js": "/UCI-Lavatory-Locator/precache-manifest.79e30c37c8dc13083f7f214c86935a6c.js",
+    "service-worker.js": "/UCI-Lavatory-Locator/service-worker.js",
+    "static/css/main.954acfa4.chunk.css.map": "/UCI-Lavatory-Locator/static/css/main.954acfa4.chunk.css.map",
+    "static/media/bathroom.png": "/UCI-Lavatory-Locator/static/media/bathroom.fd23f3db.png",
+    "static/media/bathroomSS.jpeg": "/UCI-Lavatory-Locator/static/media/bathroomSS.554aaca7.jpeg",
+    "static/media/campus.jpg": "/UCI-Lavatory-Locator/static/media/campus.9d1ba171.jpg",
+    "static/media/ethan.jpg": "/UCI-Lavatory-Locator/static/media/ethan.996bb853.jpg",
+    "static/media/lanni.JPG": "/UCI-Lavatory-Locator/static/media/lanni.9634514c.JPG",
+    "static/media/linkedin.png": "/UCI-Lavatory-Locator/static/media/linkedin.1df3a344.png",
+    "static/media/mapScreenshot.jpeg": "/UCI-Lavatory-Locator/static/media/mapScreenshot.0fa73e68.jpeg",
+    "static/media/philip.jpg": "/UCI-Lavatory-Locator/static/media/philip.3652f45c.jpg",
+    "static/media/simar.PNG": "/UCI-Lavatory-Locator/static/media/simar.d78f65c4.PNG",
+    "static/media/uciLogo.png": "/UCI-Lavatory-Locator/static/media/uciLogo.aa1db152.png"
+  }
+}
