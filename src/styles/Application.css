@@ -1,0 +1,48 @@
+.Application {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh; /* Optionally set a height to center vertically in the viewport */
+  }
+  
+  .titleContainer {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .appTitle {
+    font-size: 45px; /* Adjust the font size as needed */
+  }
+
+  .contentContainer {
+    display: flex;
+    flex-direction: row; /* Change to row to align text on the left and image on the right */
+    align-items: center;
+    margin-top: 20px;
+    justify-content: center;
+  }
+  
+  .textContainer {
+    text-align: center;
+    max-width: 600px; /* Adjust the maximum width as needed */
+    margin-left: 150px;
+    margin-right: 150px;  
+    /*Add margin between text and image */
+  }
+
+  .textSection {
+    margin-bottom: 30px; /* Add space between sections */
+  }
+  
+  .imageContainer img {
+    width: 100%;
+    height: auto;
+    max-width: 325px; /* Adjust the maximum width as needed */
+  }
+
+  .leftImageContainer img {
+    width: 100%;
+    height: auto;
+    max-width: 325px; /* Adjust the maximum width as needed */
+  }
